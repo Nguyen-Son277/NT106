@@ -1,0 +1,19 @@
+E:\18520560\LAB06\LAB06\bin\Debug\LAB06.exe.config
+E:\18520560\LAB06\LAB06\bin\Debug\LAB06.exe
+E:\18520560\LAB06\LAB06\bin\Debug\LAB06.pdb
+E:\18520560\LAB06\LAB06\obj\Debug\LAB06.csprojResolveAssemblyReference.cache
+E:\18520560\LAB06\LAB06\obj\Debug\LAB06.LAB06.resources
+E:\18520560\LAB06\LAB06\obj\Debug\LAB06.Properties.Resources.resources
+E:\18520560\LAB06\LAB06\obj\Debug\LAB06.csproj.GenerateResource.Cache
+E:\18520560\LAB06\LAB06\obj\Debug\LAB06.exe
+E:\18520560\LAB06\LAB06\obj\Debug\LAB06.pdb
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\obj\Debug\LAB06.csprojAssemblyReference.cache
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\obj\Debug\LAB06.LAB06.resources
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\obj\Debug\LAB06.Properties.Resources.resources
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\obj\Debug\LAB06.csproj.GenerateResource.cache
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\obj\Debug\LAB06.csproj.CoreCompileInputs.cache
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\obj\Debug\LAB06.exe
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\obj\Debug\LAB06.pdb
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\bin\Debug\LAB06.exe.config
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\bin\Debug\LAB06.exe
+E:\Lập trình mạng căn bản\LAB\LAB06\LAB06\bin\Debug\LAB06.pdb

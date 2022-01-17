@@ -1,0 +1,14 @@
+E:\C#\Lab2_18520560_LeKimDanh\bin\Debug\Lab2_18520560_LeKimDanh.exe.config
+E:\C#\Lab2_18520560_LeKimDanh\bin\Debug\Lab2_18520560_LeKimDanh.exe
+E:\C#\Lab2_18520560_LeKimDanh\bin\Debug\Lab2_18520560_LeKimDanh.pdb
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.csprojAssemblyReference.cache
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.MenuForm.resources
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.Properties.Resources.resources
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.csproj.GenerateResource.cache
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.csproj.CoreCompileInputs.cache
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.exe
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.pdb
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.Lab02_Bai02.resources
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.Lab02_Bai05.resources
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.Lab02_Bai01.resources
+E:\C#\Lab2_18520560_LeKimDanh\obj\Debug\Lab2_18520560_LeKimDanh.Lab02_Bai03.resources

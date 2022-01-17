@@ -1,0 +1,15 @@
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\bin\Debug\MenuForm.exe.config
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\bin\Debug\MenuForm.exe
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\bin\Debug\MenuForm.pdb
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.csprojAssemblyReference.cache
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.Lab01_Bai01.resources
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.Properties.Resources.resources
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.csproj.GenerateResource.cache
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.csproj.CoreCompileInputs.cache
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.exe
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.pdb
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.Lab01_Bai04.resources
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.Lab01_Bai02.resources
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.Lab01_Bai03.resources
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.Lab01_Bai05.resources
+E:\C#\Lab1-18520560-LeKimDanh\MenuForm\obj\Debug\MenuForm.MenuForm.resources
